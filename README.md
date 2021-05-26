@@ -23,17 +23,17 @@ This is the backend and admin panel only for the Android App visit [here](https:
 ## Admin panel
 <br>
 <p align='center' width='100%'>
-    <img width='500' src='https://github.com/suvambasak/gis-backend/blob/master/doc/Login.png?raw=true'>
+    <img width='300' src='https://github.com/suvambasak/gis-backend/blob/master/doc/Login.png?raw=true'>
     &nbsp;&nbsp;&nbsp;
-    <img width='500' src='https://github.com/suvambasak/gis-backend/blob/master/doc/MapView.png?raw=true'>
+    <img width='300' src='https://github.com/suvambasak/gis-backend/blob/master/doc/MapView.png?raw=true'>
 </p>
 <br>
 <p align='center' width='100%'>
-    <img width='500' src='https://github.com/suvambasak/gis-backend/blob/master/doc/AdminControl.png?raw=true'>
+    <img width='300' src='https://github.com/suvambasak/gis-backend/blob/master/doc/AdminControl.png?raw=true'>
     &nbsp;&nbsp;&nbsp;
-    <img width='500' src='https://github.com/suvambasak/gis-backend/blob/master/doc/AddEmp.png?raw=true'>
+    <img width='300' src='https://github.com/suvambasak/gis-backend/blob/master/doc/AddEmp.png?raw=true'>
 </p>
 <br>
 <p align='center' width='100%'>
-    <img width='500' src='https://github.com/suvambasak/gis-backend/blob/master/doc/RemoveEmp.png?raw=true'>
+    <img width='300' src='https://github.com/suvambasak/gis-backend/blob/master/doc/RemoveEmp.png?raw=true'>
 </p>
